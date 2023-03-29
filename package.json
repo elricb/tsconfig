@@ -1,22 +1,32 @@
 {
-	"name": "@elricb/tsconfig",
-	"version": "0.0.1",
-	"description": "Shared TypeScript config for my projects",
-	"license": "MIT",
-	"repository": "elricb/tsconfig",
+  "name": "@elricb/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared TypeScript config for my projects",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elricb/tsconfig.git"
+  },
   "author": "elricb (https://github.com/elricb)",
-	"main": "tsconfig.json",
-	"engines": {
-		"node": ">=14"
-	},
-	"files": [
-		"tsconfig.json"
-	],
-	"keywords": [
-		"tsconfig",
-		"typescript",
-		"ts",
-		"config",
-		"configuration"
-	]
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "bugs": {
+    "url": "https://github.com/elricb/tsconfig/issues"
+  },
+  "homepage": "https://github.com/elricb/tsconfig#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
