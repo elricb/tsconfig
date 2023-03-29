@@ -1,0 +1,22 @@
+{
+	"name": "@elricb/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "elricb/tsconfig",
+  "author": "elricb (https://github.com/elricb)",
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=14"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
